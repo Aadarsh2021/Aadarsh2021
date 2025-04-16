@@ -1,74 +1,127 @@
-# Hi, I’m Aadarsh Thakur (@Aadarsh2021) 👋
+# 👋 Hi there, I'm Aadarsh Thakur
 
-## 👨‍💻 About Me
-🎓 **Education**: Pursuing B.Tech in Computer Science Engineering at G L Bajaj Group of Institutions, Mathura (Batch of 2025).  
-💡 **Interests**:  
-- Machine Learning & Deep Learning  
-- Web Development (Frontend + Backend)   
-- Solving real-world problems using AI  
+🎓 **Computer Science Engineering Student** | 💻 **Web Developer & AI/ML Enthusiast**  
+📍 Delhi, India | 📧 thakuraadarsh1@gmail.com | 📱 +91 9310574300  
+🌐 **[Visit My Portfolio](http://portfolio-khaki-omega-43.vercel.app/)**
 
-🌱 **Currently Learning**:  
-- Advanced AI Models with TensorFlow & PyTorch  
-- Real-time data processing and optimization  
-- Full-stack development with modern JS frameworks  
+---
 
-## 🎓 Experience
-- **AI-ML Virtual Internship** | AICTE (Apr – Jun 2024)  
-  Gained hands-on experience with ML concepts and tools through an industry-recognized program.  
+## 🧠 About Me
 
-- **Web Development Virtual Internship** | Bharat Intern (Oct – Nov 2023)  
-  Built frontend components using HTML, CSS, and JavaScript.  
+I'm a passionate engineering student specializing in **Computer Science and Engineering** with expertise in **Python, Machine Learning, Deep Learning, Web Development, and Databases**. Adept at problem-solving, software development, and optimizing user experiences. I'm seeking opportunities to leverage my technical skills in a professional environment.
 
-- **Data Science Internship** | Internship Studio (Oct- Nov 2024)  
-  Applied data science techniques to analyze and visualize complex data patterns.  
+---
 
 ## 🛠️ Technical Skills
-**Languages**: Python, JavaScript, HTML, CSS, MySQL  
-**Frameworks/Libraries**: React, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-**Tools**: GitHub, VS Code, Jupyter, Git, Cursor 
-**Domains**:  
-- Web Development  
-- Machine Learning & Deep Learning  
-- Data Science  
 
-## 🚀 Selected Projects
-### 🌾 FarmEase – AI-Powered Farming Platform
-**Tech Stack**: HTML, CSS, JavaScript, React, Python, MySQL  
-- Patented platform to improve agricultural productivity by 20%  
-- Automates crop monitoring and resource allocation for farmers  
+- **Languages**: Python, HTML, CSS, JavaScript, MySQL  
+- **Frameworks & Libraries**: React, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Tools & Platforms**: Git, GitHub, MySQL  
+- **Domains**: Machine Learning, Deep Learning, Data Science, Frontend Development
 
-### 🚦 Comprehensive Smart City (Ongoing)
-**Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn  
-- Real-time AI system for optimizing urban traffic by up to 30%  
-- Involves data collection, analysis, and intelligent routing  
+---
 
-### 🎨 Portfolio Website
-**Live Link**: [portfolio-khaki-omega-43.vercel.app](https://portfolio-khaki-omega-43.vercel.app)  
-**Tech Stack**: React, Tailwind CSS, Framer Motion  
-- Personal portfolio showcasing projects, skills, and experience  
-- Designed with animations and modern UI/UX practices  
+## 📚 Education
 
-### 🔐 Knapsack Security
-**Patent**: Secure luggage solution to protect personal belongings during travel  
+- **Bachelor of Technology (B.Tech)** in Computer Science Engineering  
+  G L Bajaj Group of Institutions, Mathura (2021 – 2025)  
+  CGPA: 6.5/10
+
+- **12th Grade**  
+  Dashmesh Public School, 2021 — Score: 75%
+
+- **10th Grade**  
+  Holy Mary International School, 2018 — Score: 75%
+
+---
+
+## 💼 Internships
+
+- **Web Development Virtual Internship**  
+  *Bharat Intern* (Oct 2023 - Nov 2023)  
+  Developed frontend skills using HTML, CSS, and JavaScript.
+
+- **AI-ML Virtual Internship**  
+  *AICTE* (Apr 2024 - Jun 2024)  
+  Gained hands-on experience with key AI concepts and technologies.
+
+- **Data Science Internship**  
+  *Internship Studio* (Oct 2024)  
+  Completed training in Data Science.  
+  Certificate Number: ISDSCT933504
+
+---
+
+## 🚀 Projects
+
+- **Farm-Ease**  
+  *AI-powered platform for farming*  
+  A patented platform designed to enhance agricultural productivity and efficiency.  
+  **Technologies Used:** HTML, CSS, JavaScript, React, Python, MySQL  
+  🏆 *Patent Status: Patented*
+
+- **Comprehensive Smart City**  
+  *AI-driven traffic optimization*  
+  Developed a real-time AI-based traffic monitoring system to improve urban transportation.  
+  **Technologies Used:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Git, GitHub
+
+- **Portfolio Website**  
+  *Interactive personal website to showcase resume, skills, and projects*  
+  A visually engaging and responsive portfolio built with modern web technologies.  
+  [🔗 View Portfolio](http://portfolio-khaki-omega-43.vercel.app/)  
+  **Technologies Used:** HTML, CSS, JavaScript, React, Vercel Hosting
+
+
+---
 
 ## 🏆 Achievements
-🏅 **4th Position – IVS Hackathon**  
-Presented patented FarmEase platform for smart agriculture.  
 
-📜 **Certifications**:
-- Machine Learning – Bharat Intern  
-- Data Science – Google Developers Launchpad  
-- Web Development – Bharat Intern  
+- **IVS Hackathon**  
+  Secured 4th place by presenting Farm-Ease, demonstrating innovative solutions and strong problem-solving skills.
 
-## 📧 Get in Touch
-📧 Email: [thakuraadarsh1@gmail.com](mailto:thakuraadarsh1@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230/)  
-💻 [GitHub](https://github.com/Aadarsh2021)  
+---
 
-## 📊 GitHub Stats
+## 🧾 Certifications
 
-![Aadarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=default)
+- **Machine Learning Certification**  
+  *Bharat Intern* (May 2023 - Jun 2023)  
+  Mastered regression, decision trees, and clustering with hands-on experience in Python.
 
-## 🌐 Top Languages
+- **Data Science Certification**  
+  *Google Developers Launchpad/Programming Hub* (Jul 2023 - Aug 2023)  
+  Certificate ID: 1724688187259
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact)
+- **Virtual Internship in Web Development**  
+  *Bharat Intern* (Oct 2023 - Nov 2023)  
+  Demonstrated skills in front-end development (HTML, CSS, JavaScript).
+
+---
+
+## 🧠 Patents
+
+- **Knapsack Security**  
+  Patented a security solution for luggage, featuring innovative methods to protect and secure personal belongings during travel.
+
+- **Farm-Ease**  
+  Patented a platform to enhance agricultural productivity, offering solutions for crop management and resource optimization.
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [Portfolio Website](http://portfolio-khaki-omega-43.vercel.app/)
+- 💻 [GitHub](https://github.com/Aadarsh2021)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230/)
+- ✉️ [Email](mailto:thakuraadarsh1@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact)
+
+---
+
+*Last updated on April 16, 2025*
