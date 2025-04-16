@@ -123,10 +123,6 @@ I'm a passionate engineering student specializing in **Computer Science and Engi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh2021&theme=github-dark&hide_border=true" alt="Aadarsh's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
