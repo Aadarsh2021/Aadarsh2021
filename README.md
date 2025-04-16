@@ -4,8 +4,7 @@
 🎓 **Education**: Pursuing B.Tech in Computer Science Engineering at G L Bajaj Group of Institutions, Mathura (Batch of 2025).  
 💡 **Interests**:  
 - Machine Learning & Deep Learning  
-- Web Development (Frontend + Backend)  
-- Smart City and Traffic Optimization Solutions  
+- Web Development (Frontend + Backend)   
 - Solving real-world problems using AI  
 
 🌱 **Currently Learning**:  
@@ -20,17 +19,17 @@
 - **Web Development Virtual Internship** | Bharat Intern (Oct – Nov 2023)  
   Built frontend components using HTML, CSS, and JavaScript.  
 
-- **Data Science Internship** | Internship Studio (Oct 2024)  
+- **Data Science Internship** | Internship Studio (Oct- Nov 2024)  
   Applied data science techniques to analyze and visualize complex data patterns.  
 
 ## 🛠️ Technical Skills
 **Languages**: Python, JavaScript, HTML, CSS, MySQL  
 **Frameworks/Libraries**: React, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-**Tools**: GitHub, VS Code, Jupyter, Git  
+**Tools**: GitHub, VS Code, Jupyter, Git, Cursor 
 **Domains**:  
 - Web Development  
 - Machine Learning & Deep Learning  
-- Data Science & Smart Systems  
+- Data Science  
 
 ## 🚀 Selected Projects
 ### 🌾 FarmEase – AI-Powered Farming Platform
