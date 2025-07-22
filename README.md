@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aadarsh Thakur
 
-🎓 **Computer Science Engineering Student** | 💻 **Web Developer & AI/ML Enthusiast**  
+🎓 **Computer Science Engineering Graduate** | 💻 **Backend Developer & AI/ML Enthusiast**  
 📍 Delhi, India | 📧 thakuraadarsh1@gmail.com | 📱 +91 9310574300  
 🌐 **[Visit My Portfolio](http://portfolio-khaki-omega-43.vercel.app/)**
 
@@ -8,110 +8,111 @@
 
 ## 🧠 About Me
 
-I'm a passionate engineering student specializing in **Computer Science and Engineering** with expertise in **Python, Machine Learning, Deep Learning, Web Development, and Databases**. Adept at problem-solving, software development, and optimizing user experiences. I'm seeking opportunities to leverage my technical skills in a professional environment.
+I'm a passionate **CSE graduate** from **G.L. Bajaj Group of Institutions** with hands-on experience in full-stack development and AI/ML systems. I love solving real-world problems through clean architecture, scalable backend APIs, and intelligent data systems. I'm actively exploring new technologies to build impactful and optimized applications.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, HTML, CSS, JavaScript, MySQL  
-- **Frameworks & Libraries**: React, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-- **Tools & Platforms**: Git, GitHub, MySQL  
-- **Domains**: Machine Learning, Deep Learning, Data Science, Frontend Development
+- **Languages**: Python, JavaScript, HTML/CSS  
+- **Frontend**: React.js, Tailwind CSS, Framer Motion  
+- **Backend**: Node.js, Express.js  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
+- **Databases**: MySQL, MongoDB  
+- **Tools & Platforms**: Git, GitHub, Vercel, Mapbox
 
 ---
 
 ## 📚 Education
 
 - **Bachelor of Technology (B.Tech)** in Computer Science Engineering  
-  G L Bajaj Group of Institutions, Mathura (2021 – 2025)  
-  CGPA: 6.5/10
+  G.L. Bajaj Group of Institutions, Mathura *(Graduated 2025)*  
+  CGPA: 6.14
 
-- **12th Grade**  
-  Dashmesh Public School, 2021 — Score: 75%
-
-- **10th Grade**  
-  Holy Mary International School, 2018 — Score: 75%
+- **12th Grade (PCM)** — Dashmesh Public School, 2021 — Score: 75%  
+- **10th Grade** — Holy Mary International School, 2018 — Score: 75%
 
 ---
 
-## 💼 Internships
+## 💼 Experience & Internships
 
-- **Web Development Virtual Internship**  
-  *Bharat Intern* (Oct 2023 - Nov 2023)  
-  Developed frontend skills using HTML, CSS, and JavaScript.
+- **Backend Developer Intern** — *Ash-Tech Technologies*  
+  *(Jul 2025 – Present)*  
+  Developed REST APIs, optimized backend for scalability, handled high-volume data with MongoDB and Node.js.
 
-- **AI-ML Virtual Internship**  
-  *AICTE* (Apr 2024 - Jun 2024)  
-  Gained hands-on experience with key AI concepts and technologies.
+- **Data Science Intern** — *Internship Studio*  
+  *(Aug – Oct 2024)*  
+  Built data workflows using Pandas and Scikit-learn.  
+  Certificate IDs: ISDSCI933504, ISDSCT933504
 
-- **Data Science Internship**  
-  *Internship Studio* (Oct 2024)  
-  Completed training in Data Science.  
-  Certificate Number: ISDSCT933504
+- **AI-ML Virtual Internship** — *AICTE & EduSkills*  
+  *(Apr – Jun 2024)*  
+  Gained practical experience with supervised/unsupervised ML and deployment.
+
+- **Data Science Intern** — *Oasis Infobyte*  
+  *(Sep 2023)*  
+  Worked on real datasets to analyze and build predictive models.  
+  Certificate ID: OIB/A2/IP415
+
+- **Machine Learning Intern** — *Bharat Intern*  
+  *(May – Jun 2023)*
+
+- **Web Development Intern** — *Bharat Intern*  
+  *(Oct – Nov 2023)*
 
 ---
 
 ## 🚀 Projects
 
-- **Farm-Ease**  
-  *AI-powered platform for farming*  
-  A patented platform designed to enhance agricultural productivity and efficiency.  
-  **Technologies Used:** HTML, CSS, JavaScript, React, Python, MySQL  
-  🏆 *Patent Status: Patented*
-
-- **Comprehensive Smart City**  
-  *AI-driven traffic optimization*  
-  Developed a real-time AI-based traffic monitoring system to improve urban transportation.  
-  **Technologies Used:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Git, GitHub
-
-- **Portfolio Website**  
-  *Interactive personal website to showcase resume, skills, and projects*  
-  A visually engaging and responsive portfolio built with modern web technologies.  
-  [🔗 View Portfolio](http://portfolio-khaki-omega-43.vercel.app/)  
-  **Technologies Used:** HTML, CSS, JavaScript, React, Vercel Hosting
-
+### 🌾 Farm-Ease: AI-Powered AgriTech Platform
+An AI-Blockchain-based platform to optimize farming with crop prediction and disease detection.  
+🧠 *AI + Web + Blockchain* | 🏆 *Patent Filed*  
+🔗 [Live Demo](https://farm-phi-jade.vercel.app)  
+**Tech:** React, Node.js, MongoDB, Python, Scikit-learn
 
 ---
 
-## 🏆 Achievements
-
-- **IVS Hackathon**  
-  Secured 4th place by presenting Farm-Ease, demonstrating innovative solutions and strong problem-solving skills.
-
----
-
-## 🧾 Certifications
-
-- **Machine Learning Certification**  
-  *Bharat Intern* (May 2023 - Jun 2023)  
-  Mastered regression, decision trees, and clustering with hands-on experience in Python.
-
-- **Data Science Certification**  
-  *Google Developers Launchpad/Programming Hub* (Jul 2023 - Aug 2023)  
-  Certificate ID: 1724688187259
-
-- **Virtual Internship in Web Development**  
-  *Bharat Intern* (Oct 2023 - Nov 2023)  
-  Demonstrated skills in front-end development (HTML, CSS, JavaScript).
+### 🚦 Smart City Traffic Monitoring System
+Real-time traffic analyzer using YOLOv7 for vehicle detection and React+Mapbox for live maps.  
+**Tech:** Python, Flask, OpenCV, React.js, Mapbox
 
 ---
 
-## 🧠 Patents
+### 🌐 Portfolio Website
+A responsive portfolio with smooth animations and project showcases.  
+🔗 [Visit Portfolio](http://portfolio-khaki-omega-43.vercel.app/)  
+**Tech:** React.js, Tailwind CSS, Framer Motion, Vercel
 
-- **Knapsack Security**  
-  Patented a security solution for luggage, featuring innovative methods to protect and secure personal belongings during travel.
+---
 
-- **Farm-Ease**  
-  Patented a platform to enhance agricultural productivity, offering solutions for crop management and resource optimization.
+## 🏆 Achievements & Patents
+
+- **ITS Codeathon — 4th Place**  
+  Recognized for Farm-Ease project in the innovation category.
+
+- **Patents**  
+  - 🔐 *Knapsack Security* — Anti-theft smart luggage system  
+  - 🌿 *Farm-Ease* — AI & blockchain solution for smart agriculture
+
+---
+
+## 📜 Certifications
+
+- **Python Programming** — *CutShort*, Feb 2025  
+- **Machine Learning** — *CutShort*, Feb 2025  
+- **AI-ML Internship** — *AICTE, EduSkills*, Apr–Jun 2024  
+- **Data Science** — *Google Developers Launchpad*, ID: 1724688187259  
+- **Data Science Internship** — *Oasis Infobyte*, Sep 2023  
+- **Machine Learning** — *Bharat Intern*, May–Jun 2023  
+- **Web Development** — *Bharat Intern*, Oct–Nov 2023
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 [Portfolio Website](http://portfolio-khaki-omega-43.vercel.app/)
-- 💻 [GitHub](https://github.com/Aadarsh2021)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230/)
+- 🌐 [Portfolio Website](http://portfolio-khaki-omega-43.vercel.app/)  
+- 💻 [GitHub](https://github.com/Aadarsh2021)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230/)  
 - ✉️ [Email](mailto:thakuraadarsh1@gmail.com)
 
 ---
@@ -126,7 +127,6 @@ I'm a passionate engineering student specializing in **Computer Science and Engi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-
 ---
 
-*Last updated on April 16, 2025*
+*Last updated on July 22, 2025*
