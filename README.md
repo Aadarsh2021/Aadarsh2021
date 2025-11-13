@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aadarsh2021/Aadarsh2021/main/Banner.png" width="80%">
+  <img src="https://raw.githubusercontent.com/Aadarsh2021/Aadarsh2021/main/Banner.png" width="80%" height = ""50%>
 </p>
 
 <div align="center">
