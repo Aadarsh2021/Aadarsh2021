@@ -1,19 +1,12 @@
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- AADARSH THAKUR — SIGNATURE GITHUB PROFILE README                -->
-<!-- Clean • Modern • Premium • No Copy • Python/FS/ML Branding     -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
 <div align="center">
 
 # 🧑‍💻 **Aadarsh Thakur**
-### **Python Developer • Full-Stack Engineer • AI/ML Practitioner**
+### **Python Developer | Full-Stack Engineer | AI/ML Practitioner**
 
 <br/>
 
-<div style="font-size: 16px; max-width: 600px;">
-I build performant web applications, intelligent ML systems, and efficient backend architectures.  
-Focused on writing clean, reliable, and production-ready code.
-</div>
+⭐ Crafting backend systems, intelligent ML solutions, and scalable full-stack applications.  
+⭐ 18+ repositories showcasing clean code, real-world projects, ML experiments & production apps.
 
 <br/>
 
@@ -25,67 +18,77 @@ Focused on writing clean, reliable, and production-ready code.
 
 ---
 
-## ⚡ **Tech Focus**
+## 🔥 **What I Bring to the Table**
+- 🐍 **Primary:** Production-level Python (APIs, ML, CV, automation)  
+- ⚙️ **Backend:** Node.js, Express, REST design, scalable APIs  
+- 🌐 **Frontend:** React, Tailwind, UI engineering  
+- 🤖 **AI/ML:** Scikit-Learn, TensorFlow, OpenCV, YOLO models  
+- 🗄️ **Databases:** MongoDB, PostgreSQL, Firebase  
+- 🚀 **DevOps:** Git, Docker, Vercel, Render  
 
-### 🐍 **Primary Language**
-**Python** — ML, CV, Automation, APIs, Optimization
-
-### 🧩 **Full-Stack Development**
-**React • Node.js • Express • Tailwind • REST APIs**
-
-### 🤖 **Artificial Intelligence**
-**Scikit-Learn • TensorFlow • NumPy • Pandas • OpenCV • YOLO**
-
-### 🗄️ **Databases**
-**MongoDB • PostgreSQL • Firebase**
-
-### 🔧 **DevOps / Tools**
-**Git • Docker • Postman • Vercel • Render**
+✔ Fast learner • ✔ Curious engineer • ✔ Strong debugging skills  
+✔ Can take a project from idea → architecture → deployment  
 
 ---
 
-## 🚀 **Flagship Projects**
+## 🚀 **Flagship Projects (Out of 18 Repos)**
 
-### **1️⃣ Farm-Ease — Agriculture Intelligence Platform**
-✔ Crop recommendation engine (ML)  
-✔ Disease detection model (CV)  
-✔ Modern farmer dashboard  
-**Tech:** Python (ML) • React • Node • MongoDB  
+### 🌱 **1. Farm-Ease — Agriculture Intelligence Platform**
+A full-stack AgriTech system with ML + CV.  
+✔ Crop recommendation  
+✔ Disease detection model  
+✔ Modern UI dashboard  
+**Tech:** Python • React • Node • MongoDB  
 
 ---
 
-### **2️⃣ Smart Traffic Monitoring System**
+### 🚦 **2. Smart Traffic Monitoring System**
+Real-time highway & city analytics.  
 ✔ YOLO-based vehicle detection  
-✔ Speed & congestion analysis  
-✔ Real-time video processing  
-**Tech:** Python • OpenCV • YOLOv7 • Flask • React
+✔ Speed & congestion insights  
+✔ Flask API + React dashboard  
+**Tech:** Python • OpenCV • YOLOv7 • Flask  
 
 ---
 
-### **3️⃣ Personal Developer Portfolio**
-A clean, expressive portfolio to showcase engineering work.  
-**Tech:** React • Tailwind • Framer Motion  
+### 🧭 **3. Clean Personal Developer Portfolio**
+Modern, animated, responsive, recruiter-ready.  
+**Tech:** React • Tailwind • Framer Motion**  
+🔗 http://portfolio-khaki-omega-43.vercel.app/
 
 ---
 
-## 📈 **Engineering Strengths**
-
-- Writing clean, modular, readable code  
-- Designing scalable backend systems  
-- ML model training + tuning + optimization  
-- API design & integration  
-- Turning ideas into full production projects  
-- Fast problem-solving & debugging  
+### 🔍 **4. ML & Data Science Projects**
+Multiple repos showcasing:  
+✔ Classification models  
+✔ CV pipelines  
+✔ Data preprocessing workflows  
+✔ EDA notebooks  
+**Tech:** Python • Pandas • NumPy • Sklearn  
 
 ---
 
-## 📊 **GitHub Analytics**
+### 📦 **5. Full-Stack Projects**
+✔ Authentication systems  
+✔ Dashboards  
+✔ REST APIs  
+✔ Web utilities  
+**Tech:** MERN • Express • Firebase**
+
+---
+
+## 📊 **GitHub Impact (18+ Repos)**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadarsh2021&theme=github_dark" width="98%">
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=github_dark&hide_border=true" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadarsh2021&theme=github-dark&hide_border=true" width="48%">
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=github_dark&hide_border=true" width="48%">
 
@@ -93,34 +96,41 @@ A clean, expressive portfolio to showcase engineering work.
 
 ---
 
-## 🎓 Certifications  
+## 🎓 **Certifications**
 - Data Science — Internship Studio  
-- AI & ML — EduSkills + AICTE  
+- AI/ML — EduSkills + AICTE  
 - Machine Learning — Bharat Intern  
-- Web Development Internships (3+)
+- Web Development Internships (Oasis, Bharat, Internship Studio)  
 
 ---
 
-## 🧭 Current Mission  
-- Build large-scale Python backend systems  
-- Produce ML models that solve real problems  
-- Ship real-world projects consistently  
-- Contribute to open source  
-- Become a strong backend + ML hybrid engineer  
+## 🧪 **Engineering Strengths**
+- Strong Python fundamentals  
+- API design & backend flow understanding  
+- ML model creation + optimization  
+- Clean, structured repo management (18 repos)  
+- Real-world problem solving  
+- Product mindset + fast iteration  
 
 ---
 
-## 🧠 Core Philosophy  
-> **“Code should be simple.  
-> Systems should be scalable.  
-> Developers should be curious.”**
+## 🗺️ **Currently Working On**
+- Building scalable Python backends  
+- Creating deployable ML microservices  
+- Contributing to more full-stack systems  
+- Strengthening DSA + System Design  
+
+---
+
+## 🧠 **Mindset**
+> **“Write code today that your future self will thank you for.”**
 
 ---
 
 <div align="center">
 
-### 🚀 **Let’s Build Something That Matters.**
-If my work interests you — let's connect & collaborate.
+### 🤝 **Let’s Build Something Together**
+If my work excites you, feel free to connect!
 
 </div>
 
