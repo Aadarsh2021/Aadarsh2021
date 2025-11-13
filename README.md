@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aadarsh2021/Aadarsh2021/main/Banner.png" width="100%">
+</p>
+
 <div align="center">
 
 # < Hello World 👋, I'm **Aadarsh Thakur** />
@@ -17,21 +21,20 @@
 ---
 
 # 👨‍💻 About Me
-
 I'm **Aadarsh**, a passionate **Python Developer**, **Full-Stack Engineer**, and **AI/ML Enthusiast**.  
 I love building:
 
-- 🐍 **Intelligent ML systems**
-- ⚙️ **Scalable backend architectures**
-- 🌐 **Clean & modern frontends**
-- 🚀 **Production-ready applications**
+- 🐍 Intelligent ML systems  
+- ⚙️ Scalable backend architectures  
+- 🌐 Clean & modern frontends  
+- 🚀 Production-ready applications  
 
 ---
 
 # 🛠️ Tech Arsenal
 
 ### 🐍 **Primary Language**
-**Python** — NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Flask
+Python — NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Flask
 
 ### 🚀 **Full-Stack Development**
 React • Next.js • Tailwind CSS • Node.js • Express • REST APIs
@@ -53,8 +56,7 @@ Git • Docker • Vercel • Render • Postman
 Smart agriculture solution with:
 - ✔ Crop recommendation (ML)
 - ✔ Disease detection (CV)
-- ✔ Farmer-friendly UI
-
+- ✔ Farmer-friendly UI  
 **Tech:** Python (ML), React, Node.js, MongoDB
 
 ---
@@ -64,15 +66,13 @@ Real-time analytics using AI vision:
 - ✔ YOLO-based vehicle detection  
 - ✔ Congestion alerts  
 - ✔ Speed & count analysis  
-
 **Tech:** Python, OpenCV, YOLOv7, Flask, React
 
 ---
 
 ## 💼 **Personal Portfolio**
-Beautiful, animated, minimal & modern UI.
-
-**Tech:** React, Tailwind, Framer Motion  
+Beautiful, animated, minimal & modern UI.  
+Tech: React, Tailwind, Framer Motion  
 🔗 http://portfolio-khaki-omega-43.vercel.app/
 
 ---
@@ -91,7 +91,6 @@ Beautiful, animated, minimal & modern UI.
 ---
 
 # 🎓 Certifications
-
 - Data Science — Internship Studio  
 - AI/ML — EduSkills + AICTE  
 - Machine Learning — Bharat Intern  
@@ -107,23 +106,21 @@ Beautiful, animated, minimal & modern UI.
 - Worked on production-ready backend systems  
 
 ### **Data Science Intern — Internship Studio**
-- Model building & training  
+- Model building  
 - Data pipelines  
-- EDA + ML experimentation  
+- EDA + ML experiments  
 
 ---
 
 # 🎯 Current Goals
-
 - Master Python backend engineering  
 - Deploy large-scale ML apps  
-- Contribute to open-source Python projects  
 - Build SaaS tools using Python + React  
+- Contribute to open-source Python & ML  
 
 ---
 
 # 💡 Developer Quote I Live By
-
 > **“Talk is cheap. Show me the code.” — Linus Torvalds**
 
 ---
@@ -134,13 +131,4 @@ Beautiful, animated, minimal & modern UI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraadarsh1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230/)
-
-</div>
-
-<div align="center">
-  
-⭐ *If you like my work, consider giving a star!*  
-🤝 *Open to collaborations, internships & ML/Web projects.*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/)]()
