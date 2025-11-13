@@ -1,36 +1,36 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-# 🧑‍💻 **A A D A R S H  T H A K U R**
-### Python Developer • Full-Stack Engineer • AI/ML Practitioner  
-### 18+ Public Projects | Scalable Systems | Deployable ML | Clean Architecture
+  # < Hello World 👋, I'm Aadarsh />
+  ### `print("Welcome to my digital playground! 🚀")`
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="200"/>
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-ff5733?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=900&lines=Python+Developer;Full+Stack+Engineer+(React+%2F+Node);AI+%2F+ML+Developer;Clean+Code+Advocate;18%2B+Repositories;Learning+New+Tech+Every+Day)
 </div>
 
 ---
 
-<div align="center">
+## 🤖 $ whoami
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Full-Stack+Engineer+(React+%2F+Node);AI+%2F+ML+Developer;18%2B+Public+Repositories;Clean+Code+Advocate;Building+Real+World+AI+Systems;Always+Learning+%26+Improving)
+```python
+class Aadarsh:
+    def __init__(self):
+        self.name = "Aadarsh Thakur"
+        self.role = "Python Developer | Full-Stack Engineer | AI/ML Practitioner"
+        self.primary = "Python"
+        self.code = ["Python", "JavaScript", "Node.js", "React"]
+        
+        self.expertise = {
+            "frontend": ["React", "Tailwind", "Next.js"],
+            "backend": ["Node.js", "Express", "Flask"],
+            "ai_ml": ["OpenCV", "TensorFlow", "Scikit-Learn", "YOLOv7"],
+            "database": ["MongoDB", "PostgreSQL", "Firebase"]
+        }
 
-</div>
+        self.current_focus = "Building scalable backend systems + deployable ML"
+        self.fun_fact = "I debug with print() and pretend it's a superpower 😎"
 
----
-
-# 🧬 **/bio/info.json**
-
-```json
-{
-  "name": "Aadarsh Thakur",
-  "primary_language": "Python",
-  "roles": ["Full-Stack Engineer", "AI/ML Developer"],
-  "repositories_public": 18,
-  "focus_area": "Scalable backend systems + deployable ML pipelines",
-  "location": "India",
-  "contact": {
-    "email": "thakuraadarsh1@gmail.com",
-    "portfolio": "http://portfolio-khaki-omega-43.vercel.app",
-    "linkedin": "https://www.linkedin.com/in/aadarsh-thakur-1bbb29230"
-  }
-}
+me = Aadarsh()
