@@ -1,148 +1,126 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
-  
-  # < Hello World 👋, I'm Aadarsh Thakur />
-  ### Python Developer | Full-Stack Engineer (React • Node.js) | AI/ML Enthusiast | Computer Science Engineer
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- AADARSH THAKUR — SIGNATURE GITHUB PROFILE README                -->
+<!-- Clean • Modern • Premium • No Copy • Python/FS/ML Branding     -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
+<div align="center">
+
+# 🧑‍💻 **Aadarsh Thakur**
+### **Python Developer • Full-Stack Engineer • AI/ML Practitioner**
+
+<br/>
+
+<div style="font-size: 16px; max-width: 600px;">
+I build performant web applications, intelligent ML systems, and efficient backend architectures.  
+Focused on writing clean, reliable, and production-ready code.
+</div>
+
+<br/>
+
+[Portfolio](http://portfolio-khaki-omega-43.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230) •
+[Email](mailto:thakuraadarsh1@gmail.com)
+
 </div>
 
 ---
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Python+Developer;Full-Stack+Engineer+(React+%2F+Node);AI+%2F+ML+Practitioner;Building+Scalable+Apps+%26+Smart+Models;Computer+Science+Engineer)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Aadarsh**, a passionate **Python Developer**, **Full-Stack Engineer**, and **AI/ML Enthusiast**.  
-I love building intelligent systems, scalable backend services, and beautiful, responsive web apps.
-
-- 🐍 **Python is my primary language**  
-- 🤖 ML is my playground  
-- 🌐 Full-Stack dev is my daily grind  
-- 🚀 I deploy real-world production-ready projects  
-
----
-
-## 🛠️ Tech Arsenal
+## ⚡ **Tech Focus**
 
 ### 🐍 **Primary Language**
-**Python (NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Flask)**
+**Python** — ML, CV, Automation, APIs, Optimization
 
-### 🚀 Full-Stack Development
-**React • Next.js • Tailwind CSS • Node.js • Express • REST APIs**
+### 🧩 **Full-Stack Development**
+**React • Node.js • Express • Tailwind • REST APIs**
 
-### 🤖 AI / ML / Computer Vision
-**YOLO • Scikit-Learn • TensorFlow • OpenCV • Data Analysis • EDA**
+### 🤖 **Artificial Intelligence**
+**Scikit-Learn • TensorFlow • NumPy • Pandas • OpenCV • YOLO**
 
-### 🗄️ Databases
-**MongoDB • PostgreSQL • Firebase • MySQL**
+### 🗄️ **Databases**
+**MongoDB • PostgreSQL • Firebase**
 
-### ⚙️ DevOps & Tools
-**Git • Docker • Vercel • Render • Postman**
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 **Farm-Ease — AI-Powered AgriTech Platform**
-Smart agriculture solution with  
-✔ Crop recommendation (ML)  
-✔ Disease prediction (CV)  
-✔ Farmer-friendly UI  
-
-🛠 *Python (ML) + React + Node + MongoDB*
+### 🔧 **DevOps / Tools**
+**Git • Docker • Postman • Vercel • Render**
 
 ---
 
-### 🚗 **Smart Traffic Monitoring System**
-Real-time traffic analytics using AI vision.  
+## 🚀 **Flagship Projects**
+
+### **1️⃣ Farm-Ease — Agriculture Intelligence Platform**
+✔ Crop recommendation engine (ML)  
+✔ Disease detection model (CV)  
+✔ Modern farmer dashboard  
+**Tech:** Python (ML) • React • Node • MongoDB  
+
+---
+
+### **2️⃣ Smart Traffic Monitoring System**
 ✔ YOLO-based vehicle detection  
-✔ Congestion alerts  
-✔ Speed & count analysis  
-
-🛠 *Python, OpenCV, YOLOv7, Flask, React*
-
----
-
-### 💼 **Personal Portfolio**
-Interactive, animated, minimal & modern developer portfolio.  
-🛠 *React, Tailwind, Framer Motion*  
-🔗 http://portfolio-khaki-omega-43.vercel.app/
+✔ Speed & congestion analysis  
+✔ Real-time video processing  
+**Tech:** Python • OpenCV • YOLOv7 • Flask • React
 
 ---
 
-## 📊 GitHub Performance
+### **3️⃣ Personal Developer Portfolio**
+A clean, expressive portfolio to showcase engineering work.  
+**Tech:** React • Tailwind • Framer Motion  
+
+---
+
+## 📈 **Engineering Strengths**
+
+- Writing clean, modular, readable code  
+- Designing scalable backend systems  
+- ML model training + tuning + optimization  
+- API design & integration  
+- Turning ideas into full production projects  
+- Fast problem-solving & debugging  
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh2021&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aadarsh2021&theme=github-dark&hide_border=true" width="48%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadarsh2021&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=github_dark&hide_border=true" width="48%">
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications  
 - Data Science — Internship Studio  
-- AI/ML — EduSkills + AICTE  
+- AI & ML — EduSkills + AICTE  
 - Machine Learning — Bharat Intern  
-- Web Development — Oasis Infobyte + Others  
+- Web Development Internships (3+)
 
 ---
 
-## 💼 Experience
-
-### **Backend Developer Intern — Ash-Tech Technologies**
-- Built REST APIs  
-- Improved database workflows  
-- Worked on production-ready backend systems  
-
-### **Data Science Intern — Internship Studio**
-- Model building  
-- Data pipelines  
-- EDA + ML experiments  
+## 🧭 Current Mission  
+- Build large-scale Python backend systems  
+- Produce ML models that solve real problems  
+- Ship real-world projects consistently  
+- Contribute to open source  
+- Become a strong backend + ML hybrid engineer  
 
 ---
 
-## 🎯 Current Goals
-- Master Python backend engineering  
-- Deploy large-scale ML apps  
-- Contribute to open-source Python projects  
-- Build SaaS tools with Python + React  
-
----
-
-## 💡 Developer Quote I Live By
-> **“Talk is cheap. Show me the code.” — Linus Torvalds**
-
----
-
-## 📡 Connect With Me
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraadarsh1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
-
-</div>
+## 🧠 Core Philosophy  
+> **“Code should be simple.  
+> Systems should be scalable.  
+> Developers should be curious.”**
 
 ---
 
 <div align="center">
 
-⭐ **If you like my work, consider giving a star!**  
-🤝 **Open to collaborations, internships & ML/web projects.**
+### 🚀 **Let’s Build Something That Matters.**
+If my work interests you — let's connect & collaborate.
 
 </div>
+
