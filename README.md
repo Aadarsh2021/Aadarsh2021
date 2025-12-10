@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aadarsh2021/Aadarsh2021/main/Banner.png" width="80%" height = ""50%>
+  <img src="https://raw.githubusercontent.com/Aadarsh2021/Aadarsh2021/main/Banner.png" width="80%">
 </p>
 
 <div align="center">
 
 # < Hello World 👋, I'm **Aadarsh Thakur** />
 
-### **Python Developer • Full-Stack Engineer • AI/ML Enthusiast • Computer Science Engineer**
+### **Full-Stack Developer • AI/ML Engineer • Python & TypeScript Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
+[![Taliwo](https://img.shields.io/badge/Taliwo.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taliwo.com)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Developer;Full-Stack+Engineer+(React+%2F+Node);AI+%2F+ML+Developer;Clean+Code+Advocate;18%2B+Projects;Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(React+%2F+TypeScript);AI+%2F+ML+Engineer;Python+Developer;40%2B+Reusable+Components;Building+AI-Powered+Apps;Creator+of+Taliwo.com)
 
 </div>
 
@@ -22,67 +23,69 @@
 
 # 👨‍💻 **About Me**
 
-I’m **Aadarsh**, a Python-focused **Full-Stack + AI/ML Engineer**, passionate about building:
+I’m **Aadarsh**, a Full-Stack + AI/ML Engineer who loves building:
 
-- 🧠 **AI systems that solve real problems**
-- ⚙️ **Scalable & maintainable backend architectures**
-- 🌐 **Modern, responsive front-end interfaces**
-- 🚀 **Production-ready, real-world applications**
+- 🧠 **AI systems with real-world impact**  
+- ⚙️ **Scalable backend architectures (Firebase, Node, Cloud Functions)**  
+- 🌐 **High-performance web interfaces with React + TypeScript**  
+- 🚀 **Production-ready SaaS platforms (Taliwo.com)**  
 
-I love combining **Python + Web + ML** to create smart, useful, and impactful software.
+I blend **AI + Web + Microservices** to create fast, meaningful, user-first software products.
 
 ---
 
-# 🛠️ **Tech Arsenal**
+# 🛠️ **Tech Stack**
 
-### 🐍 **Primary Language**
-- Python — NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV, Flask
+### 🟦 **Languages**
+- JavaScript, TypeScript, Python, HTML, CSS
 
-### 🚀 **Full-Stack Development**
-- React, Next.js, Tailwind CSS  
-- Node.js, Express, REST APIs
+### 🚀 **Frontend**
+- React 18, Vue 3, Tailwind CSS, shadcn/ui, Radix UI  
+- Vite, React Router, Framer Motion  
 
-### 🤖 **AI / ML / Computer Vision**
-- YOLO (v5–v7), TensorFlow, Scikit-Learn  
-- OpenCV, Image Processing, EDA
+### ⚙️ **Backend & Cloud**
+- Node.js, Express.js  
+- Firebase (Auth, Firestore, Storage, Cloud Functions)  
+- Serverless Architecture, REST APIs  
+
+### 🤖 **AI / ML**
+- Groq AI (Llama 3.1), Prompt Engineering  
+- TensorFlow, Scikit-Learn, NLP  
 
 ### 🗄️ **Databases**
-- MongoDB, PostgreSQL, Firebase, MySQL
+- Firestore (NoSQL), MongoDB, MySQL  
 
-### ⚙️ **DevOps & Tools**
-- Docker, Git, Vercel, Render, Postman
+### 🧰 **Tools & Dev**
+- Git, GitHub, Vercel, Firebase Hosting  
+- Razorpay Integration  
+- Axios, React Hook Form, Zod  
+- PDF.js, Mammoth.js, Recharts  
+- Chrome Extension Development  
 
 ---
 
 # 🚀 **Featured Projects**
 
-## 🌾 **Farm-Ease — AI-Powered AgriTech Platform**
-A complete ML + Full Stack solution for farmers:
+## 🔵 **Taliwo.com — AI-Powered Career Platform for Tech Professionals**
+A production-ready SaaS platform used by job seekers to land FAANG roles.
 
-- ✔ ML-based crop recommendation  
-- ✔ Plant disease detection (CV)  
-- ✔ Beautiful farmer dashboard  
-- ✔ End–to–end real-world application  
+- ✔ AI Resume & LinkedIn Analysis (Groq Llama 3.1)  
+- ✔ 500+ Recruiters Directory  
+- ✔ 2200+ Interview Experiences  
+- ✔ Resume Builder (PDF/DOCX Export)  
+- ✔ Chrome Extension for job auto-fill  
+- ✔ Points & Rewards + Admin Dashboard  
+- ✔ Built using modern scalable architecture  
 
-**Tech:** Python (ML), React, Node.js, MongoDB
-
----
-
-## 🚗 **Smart Traffic Monitoring (YOLOv7)**
-Real-time road & vehicle analytics:
-
-- ✔ Vehicle detection with YOLO  
-- ✔ Speed & congestion measurement  
-- ✔ Live dashboard with alerts  
-
-**Tech:** Python, OpenCV, YOLOv7, Flask, React
+**Tech:** React, TypeScript, Tailwind, Firebase, Firestore, Cloud Functions, Groq AI, Razorpay  
+🔗 **Live:** https://taliwo.com
 
 ---
 
 ## 💼 **Personal Portfolio**
-Minimal, smooth, animated developer portfolio.
+Minimal, animated, modern portfolio for developers.
 
-**Tech:** React, Tailwind, Framer Motion  
+**Tech:** React, Tailwind CSS, Framer Motion  
 🔗 http://portfolio-khaki-omega-43.vercel.app/
 
 ---
@@ -102,38 +105,37 @@ Minimal, smooth, animated developer portfolio.
 
 # 🎓 **Certifications**
 
-- Data Science — Internship Studio  
-- AI/ML — EduSkills + AICTE  
-- Machine Learning — Bharat Intern  
-- Web Development — Oasis Infobyte + Others  
+- ML — Bharat Intern  
+- AI/ML — AICTE + EduSkills  
+- Web Development — Bharat Intern, Oasis Infobyte  
+- Python, ML Certifications — CutShort  
 
 ---
 
 # 💼 **Experience**
 
 ### 🚀 **Backend Developer Intern — Ash-Tech Technologies**
-- Built optimized REST APIs  
-- Improved DB workflows  
-- Worked with production-ready backend systems  
+- Built scalable APIs & backend systems  
+- Firebase & Node.js based development  
+- Worked on production-level SaaS applications  
 
 ### 🤖 **Data Science Intern — Internship Studio**
-- ML model building & evaluation  
+- ML model building  
+- Resume analysis automation  
 - Data pipelines & EDA  
-- Problem-driven ML experimentation  
 
 ---
 
 # 🎯 **Current Goals**
 
-- Mastering Python backend engineering  
-- Deploying ML microservices  
-- Building scalable SaaS products  
-- Open-source Python contributions  
-- Improving system design & architecture  
+- Advance in TypeScript backend engineering  
+- Build scalable AI microservices  
+- Improve system design knowledge  
+- Contribute to open-source AI tools  
 
 ---
 
-# 💡 **Developer Quote I Live By**
+# 💡 **Quote I Live By**
 
 > **“Talk is cheap. Show me the code.” — Linus Torvalds**
 
@@ -151,7 +153,7 @@ Minimal, smooth, animated developer portfolio.
 
 <div align="center">
   
-⭐ *If you like my work, consider giving a star!*  
-🤝 *Open to collaborations, internships & ML/Web projects.*
+⭐ *If you like my work, consider giving a star on my repos!*  
+🤝 *Open to collaborations, internships, and full-stack/AI freelance work.*
 
 </div>
