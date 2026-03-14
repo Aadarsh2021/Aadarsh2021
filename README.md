@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://aadarsh-portfolio-49ac6.web.app/)
 [![Taliwo](https://img.shields.io/badge/Taliwo.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taliwo.com)
 
 <br/>
