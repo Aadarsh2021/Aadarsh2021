@@ -6,7 +6,7 @@
 
 # < Hello World 👋, I'm **Aadarsh Thakur** />
 
-### **Full-Stack Developer • AI/ML Engineer • Python & TypeScript Enthusiast**
+### **Full-Stack Developer • Backend Engineer • TypeScript & Python Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
@@ -15,82 +15,101 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(React+%2F+TypeScript);AI+%2F+ML+Engineer;Python+Developer;40%2B+Reusable+Components;Building+AI-Powered+Apps;Creator+of+Taliwo.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(React+%2F+TypeScript);Backend+Developer+(Node.js+%2F+Firebase);Python+Developer;Building+Scalable+Web+Applications;Creator+of+Taliwo.com)
 
 </div>
 
 ---
 
-# 👨‍💻 **About Me**
+# 👨‍💻 About Me
 
-I’m **Aadarsh**, a Full-Stack + AI/ML Engineer who loves building:
+I’m **Aadarsh Thakur**, a Computer Science Engineering graduate passionate about building modern, scalable web applications.
 
-- 🧠 **AI systems with real-world impact**  
-- ⚙️ **Scalable backend architectures (Firebase, Node, Cloud Functions)**  
-- 🌐 **High-performance web interfaces with React + TypeScript**  
-- 🚀 **Production-ready SaaS platforms (Taliwo.com)**  
+I enjoy developing:
 
-I blend **AI + Web + Microservices** to create fast, meaningful, user-first software products.
+- ⚙️ **Scalable backend systems using Node.js & Firebase**
+- 🌐 **Fast and responsive frontends using React & TypeScript**
+- 🚀 **Production-ready SaaS platforms**
+- 🧩 **Clean architecture and reusable components**
+
+I focus on writing efficient code and building reliable web products that solve real problems.
 
 ---
 
-# 🛠️ **Tech Stack**
+# 🛠 Tech Stack
 
-### 🟦 **Languages**
-- JavaScript, TypeScript, Python, HTML, CSS
+### 🟦 Languages
+- JavaScript  
+- TypeScript  
+- Python  
+- HTML  
+- CSS  
 
-### 🚀 **Frontend**
-- React 18, Vue 3, Tailwind CSS, shadcn/ui, Radix UI  
-- Vite, React Router, Framer Motion  
+### 🚀 Frontend
+- React 18  
+- Vue 3  
+- Tailwind CSS  
+- Framer Motion  
+- Vite  
 
-### ⚙️ **Backend & Cloud**
-- Node.js, Express.js  
+### ⚙️ Backend
+- Node.js  
+- Express.js  
 - Firebase (Auth, Firestore, Storage, Cloud Functions)  
-- Serverless Architecture, REST APIs  
+- REST APIs  
+- Serverless Architecture  
 
-### 🤖 **AI / ML**
-- Groq AI (Llama 3.1), Prompt Engineering  
-- TensorFlow, Scikit-Learn, NLP  
+### 🗄 Databases
+- Firestore  
+- MongoDB  
+- MySQL  
 
-### 🗄️ **Databases**
-- Firestore (NoSQL), MongoDB, MySQL  
-
-### 🧰 **Tools & Dev**
-- Git, GitHub, Vercel, Firebase Hosting  
-- Razorpay Integration  
-- Axios, React Hook Form, Zod  
-- PDF.js, Mammoth.js, Recharts  
+### 🧰 Tools
+- Git & GitHub  
+- Firebase Hosting  
+- Vercel  
 - Chrome Extension Development  
+- Axios  
+- React Hook Form  
 
 ---
 
-# 🚀 **Featured Projects**
+# 🚀 Featured Projects
 
-## 🔵 **Taliwo.com — AI-Powered Career Platform for Tech Professionals**
-A production-ready SaaS platform used by job seekers to land FAANG roles.
+## 🔵 Taliwo.com — Career Platform for Developers
 
-- ✔ AI Resume & LinkedIn Analysis (Groq Llama 3.1)  
-- ✔ 500+ Recruiters Directory  
-- ✔ 2200+ Interview Experiences  
-- ✔ Resume Builder (PDF/DOCX Export)  
-- ✔ Chrome Extension for job auto-fill  
-- ✔ Points & Rewards + Admin Dashboard  
-- ✔ Built using modern scalable architecture  
+A modern web platform designed to help developers improve their job search and career preparation.
 
-**Tech:** React, TypeScript, Tailwind, Firebase, Firestore, Cloud Functions, Groq AI, Razorpay  
-🔗 **Live:** https://taliwo.com
+Key Features:
 
----
+- Recruiter directory  
+- Interview experience collection  
+- Resume builder  
+- Job preparation tools  
+- Admin dashboard  
+- Chrome extension integration  
 
-## 💼 **Personal Portfolio**
-Minimal, animated, modern portfolio for developers.
+**Tech Stack**
 
-**Tech:** React, Tailwind CSS, Framer Motion  
-🔗 http://portfolio-khaki-omega-43.vercel.app/
+React • TypeScript • Tailwind • Firebase • Cloud Functions
+
+🔗 https://taliwo.com
 
 ---
 
-# 📊 **GitHub Performance**
+## 💼 Personal Developer Portfolio
+
+A minimal modern portfolio website showcasing projects, skills, and experience.
+
+**Tech**
+
+React • Tailwind CSS • Framer Motion
+
+🔗 https://aadarsh-portfolio-49ac6.web.app/
+
+---
+
+# 📊 GitHub Performance
 
 <div align="center">
 
@@ -103,57 +122,60 @@ Minimal, animated, modern portfolio for developers.
 
 ---
 
-# 🎓 **Certifications**
+# 💼 Experience
 
-- ML — Bharat Intern  
-- AI/ML — AICTE + EduSkills  
-- Web Development — Bharat Intern, Oasis Infobyte  
-- Python, ML Certifications — CutShort  
+### Backend Developer Intern — Ash-Tech Technologies
 
----
-
-# 💼 **Experience**
-
-### 🚀 **Backend Developer Intern — Ash-Tech Technologies**
-- Built scalable APIs & backend systems  
-- Firebase & Node.js based development  
-- Worked on production-level SaaS applications  
-
-### 🤖 **Data Science Intern — Internship Studio**
-- ML model building  
-- Resume analysis automation  
-- Data pipelines & EDA  
+- Developed backend APIs and services
+- Built scalable server-side logic using Node.js
+- Integrated Firebase authentication and database
+- Worked on production-level web applications
 
 ---
 
-# 🎯 **Current Goals**
+# 🎓 Education
 
-- Advance in TypeScript backend engineering  
-- Build scalable AI microservices  
-- Improve system design knowledge  
-- Contribute to open-source AI tools  
-
----
-
-# 💡 **Quote I Live By**
-
-> **“Talk is cheap. Show me the code.” — Linus Torvalds**
+**B.Tech in Computer Science Engineering**  
+GL Bajaj Group of Institutions  
+2025 Graduate
 
 ---
 
-# 📡 **Connect With Me**
+# 📜 Certifications
+
+- Python Programming — CutShort  
+- Web Development — Bharat Intern  
+- Data Science Internship — Oasis Infobyte  
+
+---
+
+# 🎯 Current Goals
+
+- Improve backend system design
+- Build scalable web applications
+- Contribute to open-source projects
+- Expand expertise in TypeScript ecosystem
+
+---
+
+# 💡 Quote I Live By
+
+> “Talk is cheap. Show me the code.” — Linus Torvalds
+
+---
+
+# 📡 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://portfolio-khaki-omega-43.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://aadarsh-portfolio-49ac6.web.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraadarsh1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
 
 </div>
 
 <div align="center">
-  
-⭐ *If you like my work, consider giving a star on my repos!*  
-🤝 *Open to collaborations, internships, and full-stack/AI freelance work.*
+
+⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
