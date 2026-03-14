@@ -124,12 +124,23 @@ React • Tailwind CSS • Framer Motion
 
 # 💼 Experience
 
-### Backend Developer Intern — Ash-Tech Technologies
+### 🚀 Full Stack Web Developer — Ash-Tech Technologies
+**Sep 2025 – Present**
 
-- Developed backend APIs and services
-- Built scalable server-side logic using Node.js
-- Integrated Firebase authentication and database
-- Worked on production-level web applications
+- Building and maintaining scalable full-stack web applications
+- Developing modern frontends with React and TypeScript
+- Designing backend services using Node.js and Firebase
+- Contributing to production-level SaaS platforms
+
+---
+
+### ⚙️ Backend Developer Intern — Ash-Tech Technologies
+**Jul 2025 – Sep 2025**
+
+- Developed RESTful APIs using Node.js and Express
+- Implemented database solutions using MongoDB and Firebase
+- Improved backend performance and system scalability
+- Built backend workflows for data processing
 
 ---
 
