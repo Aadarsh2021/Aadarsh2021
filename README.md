@@ -6,16 +6,12 @@
 
 # < Hello World 👋, I'm **Aadarsh Thakur** />
 
-### **Full-Stack Developer • Backend Engineer • TypeScript & Python Developer**
+### **Full-Stack Developer • Backend-Focused • Scalable Systems Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh2021)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://aadarsh-portfolio-49ac6.web.app/)
-[![Taliwo](https://img.shields.io/badge/Taliwo.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taliwo.com)
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(React+%2F+TypeScript);Backend+Developer+(Node.js+%2F+Firebase);Python+Developer;Building+Scalable+Web+Applications;Creator+of+Taliwo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aadarsh2021)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=Google-chrome\&logoColor=white)](https://aadarsh-portfolio-49ac6.web.app/)
+[![Taliwo](https://img.shields.io/badge/Taliwo.com-3B82F6?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://taliwo.com)
 
 </div>
 
@@ -23,170 +19,144 @@
 
 # 👨‍💻 About Me
 
-I’m **Aadarsh Thakur**, a Computer Science Engineering graduate passionate about building modern, scalable web applications.
+Full-stack developer with ~1 year of experience building **production-grade SaaS platforms and backend systems**.
 
-I enjoy developing:
+I specialize in:
 
-- ⚙️ **Scalable backend systems using Node.js & Firebase**
-- 🌐 **Fast and responsive frontends using React & TypeScript**
-- 🚀 **Production-ready SaaS platforms**
-- 🧩 **Clean architecture and reusable components**
+* Designing **scalable REST APIs**
+* Building **secure authentication systems**
+* Developing **backend architectures for real-world applications**
+* Optimizing performance and database operations
 
-I focus on writing efficient code and building reliable web products that solve real problems.
+---
+
+# 🧠 Engineering Focus
+
+* Backend scalability & API design
+* System design for SaaS platforms
+* Database optimization (MongoDB, Firestore, PostgreSQL)
+* Performance tuning & query optimization
 
 ---
 
 # 🛠 Tech Stack
 
 ### 🟦 Languages
-- JavaScript  
-- TypeScript  
-- Python  
-- HTML  
-- CSS  
+
+JavaScript • TypeScript • Python
 
 ### 🚀 Frontend
-- React 18  
-- Vue 3  
-- Tailwind CSS  
-- Framer Motion  
-- Vite  
+
+React • Tailwind CSS • Vite • Framer Motion
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- Firebase (Auth, Firestore, Storage, Cloud Functions)  
-- REST APIs  
-- Serverless Architecture  
+
+Node.js • Express.js • Firebase • Supabase • REST APIs
 
 ### 🗄 Databases
-- Firestore  
-- MongoDB  
-- MySQL  
 
-### 🧰 Tools
-- Git & GitHub  
-- Firebase Hosting  
-- Vercel  
-- Chrome Extension Development  
-- Axios  
-- React Hook Form  
+MongoDB • PostgreSQL • Firestore
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔵 Taliwo.com — Career Platform for Developers
+## 🔵 Taliwo.com — AI Career Platform
 
-A modern web platform designed to help developers improve their job search and career preparation.
+A scalable platform designed to help developers improve job readiness through AI-powered analysis.
 
-Key Features:
+### 🧠 Architecture
 
-- Recruiter directory  
-- Interview experience collection  
-- Resume builder  
-- Job preparation tools  
-- Admin dashboard  
-- Chrome extension integration  
+* Modular frontend (React + Vite)
+* Serverless backend (Firebase Functions)
+* Authentication with role-based access
+* Real-time data handling with Firestore
 
-**Tech Stack**
+### ⚡ Key Features
 
-React • TypeScript • Tailwind • Firebase • Cloud Functions
+* Resume & LinkedIn analysis (AI-powered)
+* Recruiter discovery system
+* Admin dashboard & user workflows
+* Chrome extension integration
+
+### 📈 Impact
+
+* Built end-to-end SaaS system with multi-user workflows
+* Designed backend APIs for real-time analysis
+* Optimized database operations for scalable usage
 
 🔗 https://taliwo.com
 
 ---
 
-## 💼 Personal Developer Portfolio
+## 💼 Escrow Business Management System
 
-A minimal modern portfolio website showcasing projects, skills, and experience.
+A full-stack system for managing business operations including billing, inventory, and financial tracking.
 
-**Tech**
+### Highlights
 
-React • Tailwind CSS • Framer Motion
-
-🔗 https://aadarsh-portfolio-49ac6.web.app/
+* QR-based billing system for fast invoice generation
+* Role-based authentication and secure APIs
+* Structured database schema for scalability
+* Reduced manual processes through automation
 
 ---
 
-# 📊 GitHub Performance
+# 🚧 Currently Building
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=radical" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh2021&theme=radical" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=radical" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadarsh2021&theme=radical" width="100%">
-
-</div>
+* **Apka Tutor (EdTech SaaS platform)**
+  → LMS + dashboards + scalable backend systems
 
 ---
 
 # 💼 Experience
 
-### 🚀 Full Stack Web Developer — Ash-Tech Technologies
-**Sep 2025 – Present**
+### 🚀 Full Stack Developer — Ash-Tech Solutions
 
-- Building and maintaining scalable full-stack web applications
-- Developing modern frontends with React and TypeScript
-- Designing backend services using Node.js and Firebase
-- Contributing to production-level SaaS platforms
+**Jan 2026 – Present**
 
----
-
-### ⚙️ Backend Developer Intern — Ash-Tech Technologies
-**Jul 2025 – Sep 2025**
-
-- Developed RESTful APIs using Node.js and Express
-- Implemented database solutions using MongoDB and Firebase
-- Improved backend performance and system scalability
-- Built backend workflows for data processing
+* Designed scalable REST APIs with authentication & validation
+* Implemented role-based access systems (JWT, Firebase Auth)
+* Improved database performance by ~20–30%
+* Built full-stack features integrated with backend services
 
 ---
 
-# 🎓 Education
+### ⚙️ Backend Developer Intern — Ash-Tech Solutions
 
-**B.Tech in Computer Science Engineering**  
-GL Bajaj Group of Institutions  
-2025 Graduate
+**Jul 2025 – Jan 2026**
 
----
-
-# 📜 Certifications
-
-- Python Programming — CutShort  
-- Web Development — Bharat Intern  
-- Data Science Internship — Oasis Infobyte  
+* Developed backend APIs using Node.js & Express
+* Built serverless systems with Firebase
+* Integrated PostgreSQL using Supabase
+* Implemented validation & error-handling systems
 
 ---
 
-# 🎯 Current Goals
+# 📊 GitHub Stats
 
-- Improve backend system design
-- Build scalable web applications
-- Contribute to open-source projects
-- Expand expertise in TypeScript ecosystem
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aadarsh2021&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh2021&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh2021&layout=compact&theme=radical" width="48%">
+</p>
 
 ---
 
-# 💡 Quote I Live By
+# 🌍 Open Source Goals
 
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+* Contribute to backend & developer tooling projects
+* Build reusable SaaS starter templates
+* Share scalable architecture patterns
 
 ---
 
 # 📡 Connect With Me
 
-<div align="center">
+* Portfolio: https://aadarsh-portfolio-49ac6.web.app/
+* Email: [thakuraadarsh1@gmail.com](mailto:thakuraadarsh1@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/aadarsh-thakur-1bbb29230
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://aadarsh-portfolio-49ac6.web.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraadarsh1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-thakur-1bbb29230)
-
-</div>
-
-<div align="center">
+---
 
 ⭐ If you like my work, consider giving a star to my repositories.
-
-</div>
