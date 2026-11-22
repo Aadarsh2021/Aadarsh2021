@@ -19,10 +19,10 @@
 
 # 👨‍💻 About Me
 
-Full-stack and backend-focused developer building **multi-tenant SaaS platforms, data-backed applications, and AI-integrated workflows**. Currently pursuing **M.Tech in Artificial Intelligence & Data Science at IIT Patna**.
+Full-stack and backend-focused developer building **production-grade multi-tenant SaaS platforms, business suites, and AI-integrated web applications**. Currently pursuing **M.Tech in Artificial Intelligence & Data Science at IIT Patna**.
 
-* Designing **multi-tenant systems** with PostgreSQL Row-Level Security (RLS), role-based access, and scalable REST APIs
-* Building **real-time workflows, payment/messaging integrations, and automated ETL pipelines**
+* Designing **multi-tenant architectures** with PostgreSQL Row-Level Security (RLS), role-based access, and scalable REST APIs
+* Building **real-time workflows, payment/messaging integrations, and automated billing/ledger systems**
 * Optimizing database schemas, queries, and full-stack performance
 
 ---
@@ -38,22 +38,25 @@ Full-stack and backend-focused developer building **multi-tenant SaaS platforms,
 
 ---
 
-# 🚀 Featured Projects & Repositories
+# 🚀 Featured Live Projects
 
-### 💼 Escrow Suite (Escrow Bill, Account Ledger & Payroll)
-* Multi-tenant billing/POS, ledger, and business management systems built with **React, TypeScript, and Supabase PostgreSQL**.
-* Implemented **PostgreSQL RLS policies, role-based access, stored procedures, and SQL migrations** for tenant-isolated data, alongside real-time order sync and payment/messaging integrations.
+### 🧾 Escrow Bill — Multi-Tenant Billing & POS
+🔗 **Live:** https://escrow-bill.web.app
+* Multi-tenant billing and POS platform built with **React, TypeScript, and Supabase PostgreSQL** supporting retail, textile, automobile, and cafe workflows.
+* Implemented **GST invoicing, UPI QR & PDF generation**, a real-time **Kitchen Display System**, **16 PostgreSQL tables secured with RLS**, and cascading tenant deletion via stored procedures.
 
-### 📊 MFAnalytics — Macro Data Pipeline
-* Automated **ETL pipeline** using **GitHub Actions, Node.js, and Python** to normalize macroeconomic feeds into structured time-series data.
-* Paired with a frontend dashboard and **PostgreSQL (RLS)** schema for analytical workflows.
-
-### 🤖 AI & Domain Applications (`hyphomz-ai-platform`, `Medcore-HMS`, `Smart-City-System`)
-* Built full-stack and ML/AI-integrated applications including home services with Next.js & ML integration, healthcare management (`Medcore-HMS`), and automation/messaging tools.
+### 📒 Escrow Account Ledger — Double-Entry Bookkeeping
+🔗 **Live:** https://escrow-ledger.web.app
+* Double-entry bookkeeping and accounting system built with **React, TypeScript, and Supabase PostgreSQL**, deployed on Firebase Hosting.
+* Features party balance tracking, transfer-sheet reconciliation, admin audit logs, and an **8-table PostgreSQL schema secured with 10 RLS policies**.
 
 ### 🔵 Taliwo — AI Career Platform
-* Built an AI-powered career platform with **React, Firebase Functions, and multi-model AI fallbacks (Gemini / Groq / OpenAI)**.
-* Included resume/ATS scoring, scheduled job crawling, and **Razorpay** checkout.
+🔗 **Live:** https://taliwo.com
+* AI-powered career platform built with **React, Firebase Cloud Functions, and multi-model AI fallbacks (Gemini / Groq / OpenAI)**.
+* Includes ATS resume scoring, recruiter discovery, scheduled job crawling, admin workflows, and **Razorpay** checkout.
+
+### 🤖 AI & Domain Applications (`hyphomz-ai-platform`, `Medcore-HMS`, `Smart-City-System`)
+* Built full-stack and ML/AI-integrated applications including an AI-powered home services platform (Next.js + ML), healthcare management (`Medcore-HMS`), and smart-city automation tools.
 
 ---
 
@@ -62,9 +65,9 @@ Full-stack and backend-focused developer building **multi-tenant SaaS platforms,
 ### 🚀 Full Stack Developer — Ash-Tech Solutions
 **Jan 2026 – Oct 2026**
 
-* Built and maintained multi-tenant business applications (billing/POS, ledger, ERP, inventory, cashbook, payroll) using React, TypeScript, Supabase PostgreSQL, and Firebase Hosting.
-* Designed PostgreSQL schemas with Row-Level Security, role-based access, and incremental SQL migrations.
-* Integrated Razorpay, Stripe, Twilio WhatsApp, Resend, and UPI QR workflows, plus real-time sync and bug fixes.
+* Built and maintained multi-tenant business applications across the **Escrow BMS suite** (billing/POS, account ledger, ERP, inventory, cashbook, payroll) using React, TypeScript, Supabase PostgreSQL, and Firebase Hosting.
+* Designed PostgreSQL schemas with Row-Level Security, role-based access (owner, admin, staff, kitchen), and 50+ incremental SQL migrations.
+* Integrated Razorpay, Stripe, Twilio WhatsApp, Resend, and UPI QR workflows, alongside real-time POS-to-kitchen sync and bug fixes.
 
 ### ⚙️ Backend Developer Intern — Ash-Tech Solutions
 **Jul 2025 – Jan 2026**
