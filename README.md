@@ -46,7 +46,7 @@ Full-stack and backend-focused developer building **production-grade multi-tenan
 * Implemented **GST invoicing, UPI QR & PDF generation**, a real-time **Kitchen Display System**, **16 PostgreSQL tables secured with RLS**, and cascading tenant deletion via stored procedures.
 
 ### 📒 Escrow Account Ledger — Double-Entry Bookkeeping
-🔗 **Live:** https://escrow-ledger.web.app
+🔗 **Live:** [https://escrow-ledger.web.app](https://www.ledger.escrowbms.in/)
 * Double-entry bookkeeping and accounting system built with **React, TypeScript, and Supabase PostgreSQL**, deployed on Firebase Hosting.
 * Features party balance tracking, transfer-sheet reconciliation, admin audit logs, and an **8-table PostgreSQL schema secured with 10 RLS policies**.
 
